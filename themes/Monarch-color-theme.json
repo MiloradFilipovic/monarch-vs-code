@@ -1,0 +1,12 @@
+{
+	"tokenColors": "./Monarch.tmTheme",
+	"colors": {
+		"editor.background": "#2b2926",
+		"editorCursor.foreground": "#F8F8F0",
+		"editor.foreground": "#f8ead5",
+		"editorWhitespace.foreground": "#3B3A32",
+		"editor.lineHighlightBackground": "#403C37",
+		"editor.selectionBackground": "#494949"
+	},
+	"name": "Monarch"
+}

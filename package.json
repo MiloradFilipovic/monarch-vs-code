@@ -1,0 +1,22 @@
+{
+    "name": "monarch",
+    "displayName": "Monarch",
+    "description": "Monarch Sublime theme",
+    "version": "0.0.1",
+    "publisher": "eri",
+    "engines": {
+        "vscode": "^1.17.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monarch",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Monarch-color-theme.json"
+            }
+        ]
+    }
+}
