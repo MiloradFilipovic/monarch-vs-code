@@ -1,6 +1,6 @@
 # Monarch
 ## A theme for Visual Studio Code.
-This theme is a port of [@ericmagnuson](https://github.com/ericmagnuson) great [Sublime text theme](https://github.com/ericmagnuson/Monarch) of the same name.
+This theme is a port of [@ericmagnuson](https://github.com/ericmagnuson)'s great [Sublime text theme](https://github.com/ericmagnuson/Monarch) of the same name.
 
 ## Install
 Copy the repo contents to your VS code extensions folder
