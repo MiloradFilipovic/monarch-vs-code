@@ -3,6 +3,10 @@
 This theme is a port of [@ericmagnuson](https://github.com/ericmagnuson)'s great [Sublime text theme](https://github.com/ericmagnuson/Monarch) of the same name.
 
 ## Install
+### VS Marketplace
+Find the theme using VS code plugin manager (or [here](https://marketplace.visualstudio.com/items?itemName=mfilipovic.monarch)).
+
+### Manual
 Copy the repo contents to your VS code extensions folder:
 * Windows `%USERPROFILE%\.vscode\extensions`
 * Mac `~/.vscode/extensions`

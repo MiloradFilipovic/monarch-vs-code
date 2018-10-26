@@ -1,15 +1,25 @@
 {
     "name": "monarch",
-    "displayName": "Monarch",
-    "description": "Monarch Sublime theme",
-    "version": "0.0.1",
-    "publisher": "eri",
+    "displayName": "Monarch Theme",
+    "description": "Monarch VS Code theme",
+    "icon": "logo.png",
+    "version": "1.0.0",
+    "publisher": "mfilipovic",
+    "author": {
+        "name": "Milorad Filipovic",
+        "email": "mrdosija@hotmail.com",
+        "url": "http://miloradfilipovic.github.io/"
+    },
     "engines": {
         "vscode": "^1.17.0"
     },
     "categories": [
         "Themes"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MiloradFilipovic/monarch-vs-code.git"
+    },
     "contributes": {
         "themes": [
             {
